@@ -1,0 +1,2 @@
+# midtermVlog
+simple python code
